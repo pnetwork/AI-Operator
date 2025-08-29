@@ -29,3 +29,4 @@ logs/
 # 緩存
 .cache/
 .temp/
+mcp-servers/README.md
