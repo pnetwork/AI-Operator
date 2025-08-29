@@ -1,19 +1,28 @@
-# Pentium Agent - [v1.1.0-BETA]
+# Pentium Agent - [v1.2.0]
+
+## Feature in v1.2.0
+
+- 新增 Mac(Intel) 本版安裝
+- 建立 Github Release 下載連結
+
+## Pentium Agent
 
 [奔騰網路科技股份有限公司](https://www.pentiumnetwork.com/) 正式發佈新產品 **Pentium Agent** 的 BETA 版本。這是一款專為維運及開發人員設計的 AI Agent，BETA 版本可免費下載並安裝於您的 Windows 或 Mac 裝置上。立即開始建立您的個人 AI 助手！
 
-Pentium Agent 提供主流且友善的語言模型聊天介面，輕鬆添加 MCP Server，並搭載奔騰獨有的任務管理系統，助您輕鬆整合 AI 工具於日常工作流程。主要特色包括：
+Pentium Agent 提供主流且友善的語言模型聊天介面，輕鬆添加 MCP Server，並可自在的設定 Prompt 以及切換設定，助您輕鬆建立屬於自己的 AI 工具於日常工作流程。主要特色包括：
 
 1.  **主流友善的語言模型介面**：簡單直覺的介面，讓您快速與大型語言模型 (LLM) 對話並展開任務。
 2.  **輕鬆設定 MCP**：無需繁瑣的 Config 檔案，透過直觀的 UI 新增 MCP 伺服器，或從 Pentium 提供的 MCP 市集快速添加 MCP Server。
-3.  **任務管理系統**：整合奔騰核心任務功能，讓語言模型在背景執行任務，自動化處理排程與自動化任務，並提供介面統一管理。
+3.  **自定義 Prompt**：Pentium Agent 提供極大的彈性，可以自行定義並且切換。
 
 ## 下載 Pentium Agent
 
-Pentium Agent 目前支援 Mac（ARM）與 Windows 系統，***請確保您的環境已安裝 [Docker](https://www.docker.com/) 環境***。您可透過以下連結下載最新版本：
+您可以在 [Release](https://github.com/pnetwork/operator-agent/releases/latest) 內下載最新版本的 Pentium Agent，***請確保您的環境已安裝 [Docker](https://www.docker.com/) 環境***。
 
-* [Windows](https://releases.pentium.network/pentium-agent/1.1.0-beta/PentiumAgent-1.1.0-beta-win-x64.exe)
-* [Mac(ARM)](https://releases.pentium.network/pentium-agent/1.1.0-beta/PentiumAgent-1.1.0-beta-mac-arm64.dmg)
+目前支援的安裝版本：
+* Windows
+* Mac(Intel)
+* Mac(ARM)
 
 ## 快速開始
 
@@ -38,22 +47,34 @@ Pentium Agent 仍在積極開發中，我們非常重視您的意見與回饋。
 
 ---
 
-# Pentium Agent - [BETA v1.1.0]
+# Pentium Agent - [v1.2.0]
 
-[Pentium Network Technology Ltd](https://www.pentiumnetwork.com/) officially releases the BETA version of its new product, **Pentium Agent**. This AI Agent is specifically tailored for operations and developers. The BETA version is available for free download and installation on your Windows or Mac devices. Start building your personal AI assistant today!
+## Feature in v1.2.0
 
-Pentium Agent provides a mainstream and user-friendly language model chat interface, easy MCP Server addition, and features Pentium's unique task management system, helping you seamlessly integrate AI tools into your daily workflow. Key features include:
+- Added Mac(Intel) installation support
+- Created GitHub Release download link
 
-1.  **Mainstream & User-Friendly Language Model Interface**: A simple and intuitive interface allows you to quickly chat with large language models (LLMs) and start tasks.
-2.  **Effortless MCP Setup**: No need for complex configuration files. Easily add MCP servers via the intuitive UI, or quickly join from the MCP Marketplace provided by Pentium, saving time and effort.
-3.  **Task Management System**: Integrates Pentium's core task functionality, allowing language models to execute tasks in the background, automate scheduled and automated tasks, and providing an interface for unified management.
+## Pentium Agent
+
+[Pentium Network Technology Co., Ltd.](https://www.pentiumnetwork.com/) officially releases the BETA version of its new product **Pentium Agent**.  
+This is an AI Agent designed specifically for operations and developers. The BETA version is free to download and can be installed on your Windows or Mac devices. Start building your personal AI assistant today!
+
+Pentium Agent provides a mainstream and user-friendly language model chat interface, making it easy to add MCP Servers, customize prompts, and switch settings freely—helping you effortlessly integrate your own AI tools into daily workflows. Key features include:
+
+1.  **Mainstream, user-friendly LLM interface**: A simple and intuitive UI that allows you to quickly converse with large language models (LLMs) and start tasks.  
+2.  **Easy MCP configuration**: No need for complex config files—add MCP servers via an intuitive UI, or quickly add from the MCP marketplace provided by Pentium.  
+3.  **Customizable Prompts**: Pentium Agent offers great flexibility, allowing you to define and switch prompts with ease.  
 
 ## Download Pentium Agent
 
-Pentium Agent currently supports Mac (ARM) and Windows. ***Please ensure you have [Docker](https://www.docker.com/) installed.*** You can download the latest version from the links below:
+You can download the latest version of Pentium Agent from the [Release](https://github.com/pnetwork/operator-agent/releases/latest) page.  
+***Please make sure you have [Docker](https://www.docker.com/) installed in your environment.***
 
-* [Windows](https://releases.pentium.network/pentium-agent/1.1.0-beta/PentiumAgent-1.1.0-beta-win-x64.exe)
-* [Mac(ARM)](https://releases.pentium.network/pentium-agent/1.1.0-beta/PentiumAgent-1.1.0-beta-mac-arm64.dmg)
+Currently supported installation versions:
+* Windows  
+* Mac(Intel)
+* Mac(ARM)
+
 
 ## Quick Start
 
